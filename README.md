@@ -31,6 +31,19 @@ Visualize common words and hashtags for analysis.
 Extract features using Bag-of-Words and TF-IDF methods.
 Build and evaluate sentiment analysis models with different classifiers.
 
+## Usage
+
+### Google Colab
+
+To use the `CodeAlpha_TWITTER_SENTIMENT_ANALYSIS.ipynb` file with Google Colab, follow these steps:
+
+1. Open Google Colab.
+2. Click on `File > Open notebook`.
+3. Select the `GitHub` tab.
+4. Enter the URL of your GitHub repository and press Enter.
+5. Click on the `CodeAlpha_TWITTER_SENTIMENT_ANALYSIS.ipynb` file to open it.
+6. You can now run and modify the notebook in Google Colab.
+
 ## Additional Information:
 The notebook contains detailed code snippets, explanations, and visualizations for each step.
 Make sure to have the required packages installed to run the notebook successfully.
